@@ -1,5 +1,5 @@
 <?php
 
-echo 'Hello Git (Yeahhh).Directory is uploaded';
+echo 'ggHello Git (Yeahhh).Directory is uploaded';
 
 ?>
